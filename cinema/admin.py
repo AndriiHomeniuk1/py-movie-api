@@ -4,3 +4,4 @@ from cinema.models import Movie
 
 
 admin.site.register(Movie)
+
